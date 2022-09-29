@@ -1,6 +1,6 @@
-// Import stylesheets
 import './style.css';
 
-// Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
+window.addEventListener('loadl', function () {
+  // canvas setup
+  const canvas = document.getElementById('canvas1');
+});
